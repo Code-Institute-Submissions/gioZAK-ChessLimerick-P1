@@ -46,5 +46,15 @@ body {
 
 .list-item a {
     text-decoration: none;
+    color: inherit;
+    font-weight: 600;
+}
+
+.list-item a:hover {
+    border-bottom: 2px solid rgba(104, 86, 17, 0.836);
+}
+
+.active {
+    border-bottom: 2px solid rgba(104, 86, 17, 0.836);
 }
 
