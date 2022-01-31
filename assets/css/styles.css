@@ -12,21 +12,16 @@ body {
       
 }
 
-
-
-/* navigation bar styling */
+/* start navigation bar styling */
 
 .nav {
     background-color: rgba(199, 161, 12, 0.836);
     letter-spacing: 2px;
-
     height: 75px;
-
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;  
-    
 }
 
 .logo {
@@ -39,14 +34,11 @@ body {
     padding: 10px;
     text-decoration: none;
     font-size: 20px;
-    
-
 }
 
 .list-item {
     display: inline-block;
-    padding: 20px;
-    
+    padding: 20px;  
 }
 
 .list-item a {
@@ -63,7 +55,9 @@ body {
     border-bottom: 2px solid rgba(104, 86, 17, 0.836);
 }
 
-/* Media Querie for the Nav Bar Tablet */
+/* end navigation bar styling */
+
+/* Media Querie for Tablet */
 
 @media screen and (max-width: 900px) {
     .nav {
@@ -79,7 +73,7 @@ body {
     }
 }
 
-/* Media Querie for the Nav Bar Mobile */
+/* Media Querie for Mobile */
 
 @media screen and (max-width: 490px) {
     .nav {
