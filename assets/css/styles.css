@@ -15,7 +15,7 @@ body {
     background-color: rgba(199, 161, 12, 0.836);
     letter-spacing: 2px;
 
-    height: 8vh;
+    height: 75px;
 
     display: flex;
     flex-direction: row;
@@ -58,3 +58,39 @@ body {
     border-bottom: 2px solid rgba(104, 86, 17, 0.836);
 }
 
+/* Media Querie for the Nav Bar Tablet */
+
+@media screen and (max-width: 900px) {
+    .nav {
+        flex-direction: column;
+        height: 120px;   
+    }
+}
+
+/* Media Querie for the Nav Bar Mobile */
+
+@media screen and (max-width: 490px) {
+    .nav {
+        flex-direction: column;
+        height: 100px;
+    }
+
+    .logo {
+        padding: 5px;
+        font-size: 22px;
+    }
+    
+    .nav-list {
+        padding: 5px 5px;
+        font-size: 15px;
+        position: relative;
+    
+    }
+    
+    .list-item {
+        padding: 5px;
+        
+    }
+
+
+}
