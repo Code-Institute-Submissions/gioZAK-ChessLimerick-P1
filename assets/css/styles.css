@@ -1,13 +1,18 @@
-body {
-    font-family: Arial, Helvetica, sans-serif; 
-      
-}
+@import url('https://fonts.googleapis.com/css2?family=Hahmlet&display=swap');
+
 
 * {
     margin: 0;
     padding: 0px;
     box-sizing: border-box;
 }
+
+body {
+    font-family: 'Hahmlet', serif; 
+      
+}
+
+
 
 /* navigation bar styling */
 
