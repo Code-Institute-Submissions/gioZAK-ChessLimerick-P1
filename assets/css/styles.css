@@ -8,7 +8,7 @@
 }
 
 body {
-    font-family: 'Hahmlet', serif; 
+    font-family: "Hahmlet", sans-serif; 
       
 }
 
@@ -69,6 +69,13 @@ body {
     .nav {
         flex-direction: column;
         height: 120px;   
+        padding-bottom: 30px;
+        
+    }
+
+    .list-item {
+        padding: 5px;
+        padding-bottom: 30px; 
     }
 }
 
@@ -76,26 +83,15 @@ body {
 
 @media screen and (max-width: 490px) {
     .nav {
-        flex-direction: column;
-        height: 100px;
+        height: 100px; 
     }
 
     .logo {
         padding: 5px;
-        font-size: 22px;
     }
     
     .nav-list {
         padding: 5px 5px;
         font-size: 15px;
-        position: relative;
-    
     }
-    
-    .list-item {
-        padding: 5px;
-        
-    }
-
-
 }
