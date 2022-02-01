@@ -11,7 +11,7 @@ body {
     font-family: "Hahmlet", sans-serif;      
 }
 
-/* Start navigation bar styling */
+/* Start Navigation Bar Styling */
 
 .nav {
     background-color: rgba(199, 161, 12, 0.836);
@@ -53,9 +53,9 @@ body {
     border-bottom: 2px solid rgba(104, 86, 17, 0.836);
 }
 
-/* End navigation bar styling */
+/* End Navigation Bar Styling */
 
-/* Start header styling */
+/* Start Header Styling */
 
 .header-container {
     display: flex;  
@@ -88,8 +88,19 @@ body {
     padding: 20px;
 }
 
-/* Media Query for Tablet */
+/* End Media Styling */
 
+/* Start Footer Styling */
+
+.footer-container {
+    height: 75px;
+    background-color: rgba(199, 161, 12, 0.836)
+}
+
+
+/* End Footer Styling */
+
+/* Media Query for Tablet */
 
 @media screen and (max-width: 900px) {
 
@@ -117,7 +128,8 @@ body {
     }
 
     .header-text {
-        width: 100%;       
+        width: 100%; 
+        padding: 20px;     
     }
 }
 
