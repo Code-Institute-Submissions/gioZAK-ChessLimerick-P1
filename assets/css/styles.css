@@ -113,7 +113,19 @@ body {
 
 /* Start Gallery Page Styling */
 
+.gallery-container {
+    background-color: black;
+    display: flex;
+    padding: 20px;
+}
 
+
+.gallery-image {
+    width: 100%;
+    height: auto;
+    padding: 5px;
+    border-radius: 10%;
+}
 
 /* End Gallery Page Styling */
 
@@ -147,6 +159,12 @@ body {
     .header-text {
         width: 100%; 
         padding: 20px;     
+    }
+
+    /* Gallery Styling */
+
+    .gallery-container {
+        flex-direction: column;
     }
 }
 
