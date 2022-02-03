@@ -93,10 +93,21 @@ body {
 /* Start Footer Styling */
 
 .footer-container {
-    height: 75px;
-    background-color: rgba(199, 161, 12, 0.836)
+    min-height: 75px; /* Min-height to remove the white space under the footer solution found in https://stackoverflow.com/questions/34188161/remove-white-space-below-footer */
+    background-color: rgba(199, 161, 12, 0.836);
 }
 
+.footer-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+
+.footer-links a {
+    color: black;
+    font-size: 30px;  
+    padding: 20px; 
+}
 
 /* End Footer Styling */
 
