@@ -119,7 +119,6 @@ body {
     padding: 20px;
 }
 
-
 .gallery-image {
     width: 100%;
     height: auto;
@@ -165,6 +164,10 @@ body {
 
     .gallery-container {
         flex-direction: column;
+    }
+
+    .gallery-image {
+        padding-bottom: 20px;
     }
 }
 
