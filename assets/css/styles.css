@@ -160,6 +160,16 @@ body {
     margin-bottom: 20px;
 }
 
+label {
+    padding-right: 5px;
+    text-align: start;
+}
+
+.signup-spacing {
+    margin: 20px;
+    text-align: right;
+}
+
 /* End Sign Up Page Styling */
 
 /* Media Query for Tablet */

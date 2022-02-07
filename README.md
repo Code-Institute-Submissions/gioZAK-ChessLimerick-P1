@@ -1,6 +1,6 @@
 # Code Institute Project Portfolio 1 
 ## Chess Limerick
-Chess limerick is a webpage made f
+Chess Limerick is a fictional website for a Chess Club based in Limerick City, Ireland. 
 
 ## Features 
 
@@ -57,3 +57,6 @@ If this section grows too long, you may want to split it off into a separate fil
 - The icons used in the home page are from [Font Awesome](https://fontawesome.com/)
 ### Media
 - The images used on the home, gallery and background image for the sign up page were taken from [Unsplash] (https://unsplash.com)
+### Credit Mentor
+
+I would like to credit my mentor Narender Singh who motivated me and pushed me to do a better project.
