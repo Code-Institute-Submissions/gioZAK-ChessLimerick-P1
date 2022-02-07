@@ -135,7 +135,9 @@ body {
 /* Start Sign Up Page Styling */
 
 .signup-background {
-    background-color: black;
+    background: url("../images/background-img-min.jpg");
+    background-size: cover;
+    background-position: 10%;
     height: 85vh;
     text-align: center;
 }
