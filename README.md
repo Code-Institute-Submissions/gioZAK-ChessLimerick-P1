@@ -4,6 +4,8 @@ Chess Limerick is a website for a fictional Chess Club based in Limerick City, I
 
 ![Responsive](docs/doc-ami-responsive.jpg)
 
+You can check the live webiste [here](https://giozak.github.io/ChessLimerick-P1/)
+
 ## User Experience (UX)
 
 -   ### User stories
@@ -83,7 +85,7 @@ Chess Limerick is a website for a fictional Chess Club based in Limerick City, I
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fgiozak.github.io%2FChessLimerick-P1%2F)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgiozak.github.io%2FChessLimerick-P1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=pt-BR)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fgiozak.github.io%2FChessLimerick-P1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=)
 - Accessibility
   - I have checked each page on Lighthouse and they all scored 100 in accessibility. All content is readable, the colors have a good contrast and all images have alt attributes.
 ![Lighthouse](docs/doc-lighthouse.jpg)
