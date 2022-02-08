@@ -8,54 +8,54 @@ Chess Limerick is a fictional website for a Chess Club based in Limerick City, I
 
     -   #### Visitor Goals
 
-        1. As a Visitor, I want to be able to understand what the club is about.
-        2. As a Visitor, I want to see pictures of the participants and the place.
-        3. As a Visitor, I want to be able to get in contact with the club.
+        1. As a Visitor, I want to be able to understand what the club is about.  
+        2. As a Visitor, I want to find the meetings location easily.
+        3. As a Visitor, I want to see pictures of the participants and the place.
+        4. As a Visitor, I want to be able to get in contact with the club.
    
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
+        -   The four main colors represent the chess board and it's pieces.
     -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The main font is Hahmlet and if it fails to load the backup font is sans-serif.
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   The images are meant to represent a variety of people in a park playing chess to attract a diverse range of people to join the club.
 
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-### Existing Features
+### Existing Features:
 - __Navigation Bar__
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Present on all pages, has the same design on each of them.
+  - A underline was used under the links to highlight the user which page he is currently.
+  - On smaller screens than 900 pixels it's behavior changes for better user experience.
 ![Nav Bar]()
-- __The landing page image__
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
-![Landing Page]()
-- __Club Ethos Section__
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-![Club Ethos]()
-- __Meetup Times section__
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-![Meetup Times]()
+- __The Header__
+  - The header is divided between an image and a text.
+  - The image shows two people of different ages to invite people from all ages to the meetings.
+  - The text objective is to quickly explain the user what the site is about and where and when to join the meetings and also that it's free.
+![Header]()
+- __The Main Section__
+  - This section is divided in four parts.
+  - The text is encouraging and inviting to all skill levels of chess players. 
+  - The button place under takes the user to the Sign Up page, facilitating his experience after the invitation.
+![Main Section]()
 - __The Footer__ 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer includes three social media links. 
+  - The links offer the user alternative ways to interact and contact the Club.
 ![Footer]()
-- __Gallery__
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+- __The Gallery Page__
+  - The gallery shows the user what to expect of the location and it's participants. 
+  - The participants shown are from diverse groups to encourage all sorts of people to join. 
 ![Gallery]()
 - __The Sign Up Page__
-  - 
+  - The form is simple and requires the user's first name, last name and email address.
+  - After filling the form the user expects to receive informations about the meetings and weekly newsletters.
+  - The form is connected to Code Intitute's form dump link given in previous classes.
 ![Sign Up]()
 For some/all of your features, you may choose to reference the specific project files that implement them.
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-### Features Left to Implement
-- Another feature idea
+
 ## Testing 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
@@ -66,7 +66,7 @@ If this section grows too long, you may want to split it off into a separate fil
   - No errors were returned when passing through the official [W3C validator](link)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](link)
-### Unfixed Bugs
+
 
 ## Deployment
 
@@ -76,6 +76,6 @@ If this section grows too long, you may want to split it off into a separate fil
 - The icons used in the home page are from [Font Awesome](https://fontawesome.com/)
 ### Media
 - The images used on the home, gallery and background image for the sign up page were taken from [Unsplash] (https://unsplash.com)
-### Credit Mentor
+### Acknowledgements
 
-I would like to credit my mentor Narender Singh who motivated me and pushed me to do a better project.
+- My mentor Narender Singh who motivated me and guided me to do a better project.
