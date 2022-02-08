@@ -2,6 +2,25 @@
 ## Chess Limerick
 Chess Limerick is a fictional website for a Chess Club based in Limerick City, Ireland. 
 
+## User Experience (UX)
+
+-   ### User stories
+
+    -   #### Visitor Goals
+
+        1. As a Visitor, I want to be able to understand what the club is about.
+        2. As a Visitor, I want to see pictures of the participants and the place.
+        3. As a Visitor, I want to be able to get in contact with the club.
+   
+-   ### Design
+    -   #### Colour Scheme
+        -   The two main colours used are Code Insititue red, and white.
+    -   #### Typography
+        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+    -   #### Imagery
+        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+
+
 ## Features 
 
 In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.

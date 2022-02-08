@@ -86,12 +86,12 @@ body {
     padding: 50px;
     background-color: black;
     color: rgba(199, 161, 12, 0.836);
+
 }
 
 .main-container>* {
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
-
 
 .main-container p {
     padding: 20px;
