@@ -87,6 +87,11 @@ body {
     color: rgba(199, 161, 12, 0.836);
 }
 
+.main-container>* {
+    padding-bottom: 50px;
+}
+
+
 .main-container p {
     padding: 20px;
 }
@@ -150,7 +155,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 400px;
+    width: 600px;
     border-radius: 10%;
 }
 
@@ -164,17 +169,35 @@ body {
 
 label {
     padding-right: 5px;
-    text-align: start;
+    width: 100px;
+    display: inline-block;
 }
 
 .signup-spacing {
     margin: 20px;
-    text-align: right;
 }
 
 /* End Sign Up Page Styling */
 
-/* Media Query for Tablet */
+/* Media Query for Larger Screens than 1500 */
+@media screen and (min-width: 1500px) {
+
+    body {
+        font-size: 1.09em;
+    }
+
+    /* SignUp Styling */
+    .signup-container {
+        width: 800px;
+    }
+
+    label {
+        width: 150px;
+    }
+}
+
+
+/* Media Query for Smaller Screens than 900px */
 
 @media screen and (max-width: 900px) {
 
@@ -206,6 +229,9 @@ label {
         padding: 20px;
     }
 
+    /* Main Styling */
+
+
     /* Gallery Styling */
 
     .gallery-container {
@@ -217,7 +243,7 @@ label {
     }
 }
 
-/* Media Query for Mobile */
+/* Media Query for Smaller Screens than 490px */
 
 @media screen and (max-width: 490px) {
 
@@ -235,4 +261,12 @@ label {
         font-size: 15px;
     }
 
+    /* Main Styling */
+    .main-container {
+        padding: 20px 5px 20px 5px;
+    }
+
+    .main-container p {
+        text-align: justify;
+    }
 }
