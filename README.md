@@ -34,25 +34,25 @@ Chess Limerick is a website for a fictional Chess Club based in Limerick City, I
   - The header is divided between an image and a text.
   - The image shows two people of different ages to invite people from all ages to the meetings.
   - The text objective is to quickly explain the user what the site is about and where and when to join the meetings and also that it's free.
-![Header]()
+![Header](docs/doc-header-normal-res.jpg)
 - __The Main Section__
   - This section is divided in four parts.
   - The text is encouraging and inviting to all skill levels of chess players. 
   - The button place under takes the user to the Sign Up page, facilitating his experience after the invitation.
-![Main Section]()
+![Main Section](docs/doc-main-normal-res.jpg)
 - __The Footer__ 
   - The footer includes three social media links. 
   - The links offer the user alternative ways to interact and contact the Club.
-![Footer]()
+![Footer](docs/doc-footer.jpg)
 - __The Gallery Page__
   - The gallery shows the user what to expect of the location and it's participants. 
   - The participants shown are from diverse groups to encourage all sorts of people to join. 
-![Gallery]()
+![Gallery](docs/doc-gallery.jpg)
 - __The Sign Up Page__
   - The form is simple and requires the user's first name, last name and email address.
   - After filling the form the user expects to receive informations about the meetings and weekly newsletters.
   - The form is connected to Code Intitute's form dump link given in previous classes.
-![Sign Up]()
+![Sign Up](docs/doc-gallery.jpg)
 
 ## Technologies Used
 
