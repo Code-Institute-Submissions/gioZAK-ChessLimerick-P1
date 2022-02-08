@@ -54,6 +54,23 @@ Chess Limerick is a website for a fictional Chess Club based in Limerick City, I
   - The form is connected to Code Intitute's form dump link given in previous classes.
 ![Sign Up]()
 
+## Technologies Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [Birme](https://www.birme.net)
+    - Birme was used to resize the images and change the files from jpg to webp.
+-   [Optimizilla](https://imagecompressor.com/)
+    - Optimizilla was used to compress the images and lower it's size while keeping the quality to improve the website performance.
+-   [Google Fonts](https://fonts.google.com/)
+    - Google fonts were used to import the 'Hahmlet' font into the style.css file which is used on all pages throughout the project.
+-   [Font Awesome](https://fontawesome.com/)
+    - Font Awesome was used on the main pages to add chess icons.
+-   [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+-   [GitHub](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+
 
 ## Testing
 - I tested the website on Google Chrome, Opera and Microsoft Edge and no bugs were found.
