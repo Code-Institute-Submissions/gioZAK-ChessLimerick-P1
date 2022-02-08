@@ -25,7 +25,6 @@ body {
 .logo {
     padding: 10px;
     font-size: 22px;
-    text-decoration: none;
 }
 
 .nav-list {
@@ -102,8 +101,8 @@ body {
 /* Start Footer Styling */
 
 .footer-container {
-    min-height: 75px;
     /* Min-height to remove the white space under the footer solution found in https://stackoverflow.com/questions/34188161/remove-white-space-below-footer */
+    min-height: 75px;
     background-color: rgba(199, 161, 12, 0.836);
 }
 
@@ -151,12 +150,11 @@ body {
 .signup-container {
     color: rgba(199, 161, 12, 0.836);
     background-color: rgba(5, 5, 5, 0.9);
-    /* Centering the container taken from "https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/" */
+    /* Code from 154 - 157 used to center the container taken from "https://css-tricks.com/quick-css-trick-how-to-center-an-object-exactly-in-the-center/" */
     position: fixed;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /* Taken from above link */
     width: 600px;
     border-radius: 10%;
 }
