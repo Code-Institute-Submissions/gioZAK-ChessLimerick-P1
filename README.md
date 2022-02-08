@@ -52,7 +52,7 @@ Chess Limerick is a website for a fictional Chess Club based in Limerick City, I
 ![Gallery](docs/doc-gallery.jpg)
 - __The Sign Up Page__
   - The form is simple and requires the user's first name, last name and email address.
-  - After filling the form the user expects to receive informations about the meetings and weekly newsletters.
+  - After filling the form the user expects to receive informations about the meetings.
   - The form is connected to Code Intitute's form dump link given in previous classes.
 ![Sign Up](docs/doc-signup.jpg)
 
