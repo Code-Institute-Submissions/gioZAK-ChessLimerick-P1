@@ -53,8 +53,7 @@ Chess Limerick is a fictional website for a Chess Club based in Limerick City, I
   - After filling the form the user expects to receive informations about the meetings and weekly newsletters.
   - The form is connected to Code Intitute's form dump link given in previous classes.
 ![Sign Up]()
-For some/all of your features, you may choose to reference the specific project files that implement them.
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
 
 ## Testing 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -79,3 +78,4 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Acknowledgements
 
 - My mentor Narender Singh who motivated me and guided me to do a better project.
+- Code Institute's staff: Hellen Mill, Aoife Ni Dhonnchadha and Kasia Bogucka.
