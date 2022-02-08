@@ -25,6 +25,7 @@ body {
 .logo {
     padding: 10px;
     font-size: 22px;
+    text-decoration: none;
 }
 
 .nav-list {
@@ -155,6 +156,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    /* Taken from above link */
     width: 600px;
     border-radius: 10%;
 }
@@ -169,7 +171,7 @@ body {
 
 label {
     padding-right: 5px;
-    width: 100px;
+    width: 130px;
     display: inline-block;
 }
 
@@ -179,11 +181,26 @@ label {
 
 /* End Sign Up Page Styling */
 
+/* Button Styling */
+
+.join-button {
+
+    border-radius: 15%;
+    padding: 5px;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.join-button:hover {
+    background-color: rgba(199, 161, 12, 0.836);
+    color: white;
+}
+
 /* Media Query for Larger Screens than 1500 */
 @media screen and (min-width: 1500px) {
 
     body {
-        font-size: 1.09em;
+        font-size: 1.3rem;
     }
 
     /* SignUp Styling */
@@ -192,7 +209,7 @@ label {
     }
 
     label {
-        width: 150px;
+        width: 200px;
     }
 }
 
@@ -228,9 +245,6 @@ label {
         width: 100%;
         padding: 20px;
     }
-
-    /* Main Styling */
-
 
     /* Gallery Styling */
 
