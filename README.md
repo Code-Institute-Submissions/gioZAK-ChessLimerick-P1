@@ -1,6 +1,6 @@
 # Code Institute Project Portfolio 1 
 ## Chess Limerick
-Chess Limerick is a fictional website for a Chess Club based in Limerick City, Ireland. 
+Chess Limerick is a website for a fictional Chess Club based in Limerick City, Ireland. 
 
 ## User Experience (UX)
 
@@ -55,19 +55,24 @@ Chess Limerick is a fictional website for a Chess Club based in Limerick City, I
 ![Sign Up]()
 
 
-## Testing 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-### Validator Testing 
+## Testing
+- I tested the website on Google Chrome, Opera and Microsoft Edge and no bugs were found.
+- I used Chrome DevTools to test the page responsiveness and found it to be responsive on all screen sizes.
+- I tested all links and buttons and they work.
+- I tested each page on different screen sizes and found the text easy to read and understand.
+### Validator Testing
 - HTML
   - No errors were returned when passing through the official [W3C validator](link)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](link)
-
+- Accessibility
+  - I have checked each page on Lighthouse and they all scored 100 in accessibility. All content is readable, the colors have a good contrast and all images have alt attributes.
 
 ## Deployment
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 ## Credits 
 
@@ -76,6 +81,5 @@ If this section grows too long, you may want to split it off into a separate fil
 ### Media
 - The images used on the home, gallery and background image for the sign up page were taken from [Unsplash] (https://unsplash.com)
 ### Acknowledgements
-
-- My mentor Narender Singh who motivated me and guided me to do a better project.
+- My mentor Narender Singh who motivated and guided me to do a better project.
 - Code Institute's staff: Hellen Mill, Aoife Ni Dhonnchadha and Kasia Bogucka.
