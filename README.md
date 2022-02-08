@@ -29,7 +29,7 @@ Chess Limerick is a website for a fictional Chess Club based in Limerick City, I
   - Present on all pages, has the same design on each of them.
   - A underline was used under the links to highlight the user which page he is currently.
   - On smaller screens than 900 pixels it's behavior changes for better user experience.
-![Nav Bar]()
+![Nav Bar](docs/nav-bar-normal-res.jpg)
 - __The Header__
   - The header is divided between an image and a text.
   - The image shows two people of different ages to invite people from all ages to the meetings.
