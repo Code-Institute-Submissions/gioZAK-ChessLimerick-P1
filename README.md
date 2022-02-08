@@ -1,6 +1,8 @@
 # Code Institute Project Portfolio 1 
 ## Chess Limerick
-Chess Limerick is a website for a fictional Chess Club based in Limerick City, Ireland. 
+Chess Limerick is a website for a fictional Chess Club based in Limerick City, Ireland. The website objective is to provide an online platform where users can find information about Chess Club. In this project I have applied my knowledge acquired while studying HTML and CSS with Code Institute.
+
+![Responsive](docs/doc-ami-responsive.jpg)
 
 ## User Experience (UX)
 
@@ -52,7 +54,7 @@ Chess Limerick is a website for a fictional Chess Club based in Limerick City, I
   - The form is simple and requires the user's first name, last name and email address.
   - After filling the form the user expects to receive informations about the meetings and weekly newsletters.
   - The form is connected to Code Intitute's form dump link given in previous classes.
-![Sign Up](docs/doc-gallery.jpg)
+![Sign Up](docs/doc-signup.jpg)
 
 ## Technologies Used
 
@@ -84,6 +86,7 @@ Chess Limerick is a website for a fictional Chess Club based in Limerick City, I
   - No errors were found when passing through the official [(Jigsaw) validator](link)
 - Accessibility
   - I have checked each page on Lighthouse and they all scored 100 in accessibility. All content is readable, the colors have a good contrast and all images have alt attributes.
+![Lighthouse](docs/doc-lighthouse.jpg)
 
 ## Deployment
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
